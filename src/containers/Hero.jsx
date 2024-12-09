@@ -10,7 +10,7 @@ const Hero = () => {
         <h3 className="hero-intro--higher text-slate-300/60">Frontend developer.</h3>
       </div>
       <div className="hero-info text-xl text-slate-500 max-w-[540px] mb-4 md:mb-10">
-        I’m an electronic engineer passionate about software development. 1.5 years of hands-on experience in front-end development, designing and implementing user interfaces using React and Redux. Focused on building intuitive and accessible <span className="gl-txt-highlight"> web applications </span>. In my free time, I enjoy learning new technologies and developing <span className="gl-txt-highlight"> machine-learning </span> solutions for diverse situations I face in my daily life.
+        I’m an electronic engineer passionate about software development. + 2.5 years of hands-on experience in front-end development, designing and implementing user interfaces using React and Redux. Focused on building intuitive and accessible <span className="gl-txt-highlight"> web applications </span>. In my free time, I enjoy learning new technologies and developing <span className="gl-txt-highlight"> machine-learning </span> solutions for diverse situations I face in my daily life.
       </div>
       <div className="hero-footer h-10 relative">
         <Media />
